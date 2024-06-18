@@ -4,3 +4,11 @@
 ._.vscode
 ._readme.md
 .vscode/._settings.json
+Xcode/firstProject/._firstProject.xcodeproj
+Xcode/firstProject/firstProject/._AppDelegate.swift
+Xcode/firstProject/firstProject/._Info.plist
+Xcode/firstProject/firstProject/._SceneDelegate.swift
+Xcode/firstProject/firstProject/._ViewController.swift
+Xcode/firstProject/firstProject/Assets.xcassets/._Contents.json
+Xcode/firstProject/firstProject/Base.lproj/._LaunchScreen.storyboard
+Xcode/firstProject/firstProject/Base.lproj/._Main.storyboard
