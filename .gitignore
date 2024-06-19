@@ -1,4 +1,3 @@
-
 ._.git
 ._.gitignore
 ._.vscode
@@ -12,3 +11,14 @@ Xcode/firstProject/firstProject/._ViewController.swift
 Xcode/firstProject/firstProject/Assets.xcassets/._Contents.json
 Xcode/firstProject/firstProject/Base.lproj/._LaunchScreen.storyboard
 Xcode/firstProject/firstProject/Base.lproj/._Main.storyboard
+._projects
+projects/._swift
+projects/swift/iOS/premiereAppli/._premiereAppli.xcodeproj
+projects/swift/iOS/premiereAppli/premiereAppli/._AppDelegate.swift
+projects/swift/iOS/premiereAppli/premiereAppli/._SceneDelegate.swift
+projects/swift/iOS/premiereAppli/premiereAppli/._ViewController.swift
+projects/swift/iOS/premiereAppli/premiereAppli/Assets.xcassets/AccentColor.colorset/._Contents.json
+projects/swift/iOS/premiereAppli/premiereAppli/Assets.xcassets/._Contents.json
+projects/swift/iOS/premiereAppli/premiereAppli/Base.lproj/._LaunchScreen.storyboard
+projects/swift/iOS/premiereAppli/premiereAppli/Base.lproj/._Main.storyboard
+projects/swift/iOS/premiereAppli/premiereAppli/._Info.plist
