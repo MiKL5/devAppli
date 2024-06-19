@@ -12,3 +12,6 @@ Apple étant le créateur, il est le principal contributeur, nonobstant, une com
 Il est supporté par de nombreux OS, dont ceux d’Apple, Linux ainsi que des supports non officiels sur certaines plateformes.
 
 C’est en 2014, qu’il fut officiellement présenté à la WWDC.
+
+### **Projets**
+1. Appli iOS <kbd>_Wip_</kbd>
