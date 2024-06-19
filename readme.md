@@ -14,4 +14,5 @@ Il est supporté par de nombreux OS, dont ceux d’Apple, Linux ainsi que des su
 C’est en 2014, qu’il fut officiellement présenté à la WWDC.
 
 ### **Projets**
-1. Appli iOS <kbd>_Wip_</kbd>
+1. Appli iOS
+2. Créa d'une Playground  <kbd>_Wip_</kbd>
