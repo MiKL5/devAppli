@@ -41,3 +41,15 @@ var voitureKilometrage = 75032
 var joursAvantLesVacances = -60
 //var jourAvantLaRentrée:UInt = -120
 var jourAvantLaRentrée:UInt = 120
+/*
+ Les nombres décimaux
+ le float à 32 bits
+ le double à 64 bits
+ sans précision du type c'est un double
+ s'agissant de la typographie anglaise, ont utilise un . et pas de ,
+ */
+
+/*
+ La conversion des types
+ Int vers Float, Double vers Int, ...
+ */
