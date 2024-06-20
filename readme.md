@@ -3,7 +3,7 @@
 ## **Langage Swift** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Langage Swift" align="right" height="64px"></a>
 L’autre langage maison d’Apple est Objective-C.  
 En travaillant sur Xcode Chris LATTNER voulait un langage moins contraignant pour les appareils tels que les iPhones et iPad.  
-Swift est un langage de programmation orienté objet créer en 2010 par Apple. Il est compilé et développer par Apple dans le but de créer des applis pour macOS, iOS, tvOS, WatchOS, visionOS, DriverKit…  
+[Swift](https://fr.wikipedia.org/wiki/Swift_(langage_d%27Apple)) est un langage de programmation orienté objet créer en 2010 par Apple. Il est compilé et développer par Apple dans le but de créer des applis pour macOS, iOS, tvOS, WatchOS, visionOS, DriverKit…  
 Il est simple, sûr performant, véloce et open source.  
 Et est inspire de nombreux langage come l’Objective-C, le Python, le C ou Java.
 
@@ -11,7 +11,7 @@ Apple étant le créateur, il est le principal contributeur, nonobstant, une com
 
 Il est supporté par de nombreux OS, dont ceux d’Apple, Linux ainsi que des supports non officiels sur certaines plateformes.
 
-C’est en 2014, qu’il fut officiellement présenté à la WWDC.
+C’est en 2014, qu’il fut officiellement présenté à la WWDC par [Chris LATTNER](https://fr.wikipedia.org/wiki/Chris_Lattner).
 
 ### **Projets**
 1. Appli iOS
