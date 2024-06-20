@@ -48,7 +48,9 @@ var jourAvantLaRentrée:UInt = 120
  sans précision du type c'est un double
  s'agissant de la typographie anglaise, ont utilise un . et pas de ,
  */
-
+let nbFloat:Float = 354.432
+let nbDouble:Double = 43.6666
+//let addition = nbFloat + nbDouble // est impossible en l'état
 /*
  La conversion des types
  Int vers Float, Double vers Int, ...
