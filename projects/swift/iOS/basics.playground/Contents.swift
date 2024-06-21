@@ -55,3 +55,24 @@ let nbDouble:Double = 43.6666
  La conversion des types
  Int vers Float, Double vers Int, ...
  */
+let additionInt:Int = positionClassement + Int(voitureKilometrage)
+print(additionInt)
+let additionIntDouble = additionInt + Int(nbDouble) // caster nbDouble en Int
+print(additionIntDouble)
+let additionDoubleInt = Double(additionInt) + nbDouble
+print(additionDoubleInt)
+let additionFloat = Float(additionInt) + nbFloat
+print(additionFloat)
+/*
+ Les strings
+ Sur plusieurs lignes, elles contienent 3 guillemet
+ */
+var phrase:String = "Salut les codeurs." // la valeur n'est pas obligatoire mais plus rigoureuse pour éviter les erreurs
+var aMettreUlterieurement:String
+//print(aMettreUlterieurement) // est une erreur car elle n'est pas initialisée
+aMettreUlterieurement = "Salut."
+print(aMettreUlterieurement)
+let aMettrePlusTard:String // idem n'est ne peut pas être changée
+aMettrePlusTard = "Tu es en retard."
+print(phrase , aMettreUlterieurement , aMettrePlusTard)
+//aMettrePlusTard = "Non je suis à l'heure" // impossible déjà initialisée
