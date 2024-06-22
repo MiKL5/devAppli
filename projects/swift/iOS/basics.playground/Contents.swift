@@ -76,3 +76,56 @@ let aMettrePlusTard:String // idem n'est ne peut pas être changée
 aMettrePlusTard = "Tu es en retard."
 print(phrase , aMettreUlterieurement , aMettrePlusTard)
 //aMettrePlusTard = "Non je suis à l'heure" // impossible déjà initialisée
+var docstring = """
+Ceci est une docstring.
+Cela permet d'afficher un texte ou un dialogue dans un programme sur plusieurs lignes.
+Ces trois lignes doivent apparaîtres dans la console.
+"""
+print(docstring)
+// Une string sans valeur est NULL donc fait provoque un crash, mieux vaut l'initialiser vide et utiliser un constructeur de classe
+// La mutabilité des string peut établie de deux façons
+var personne = "Jean"
+personne += "-Christophe GRANGÉ" // permet l'ajout
+print(personne)
+// La cocaténation
+var premon1 = "Jean"
+var prenom2 = "Christophe"
+var nom = "GRANGÉ"
+var nomComplet = premon1 + prenom2 + nom // Là nom plus, il n'y a pas d'espace
+print(nomComplet)
+var espace = " "
+var nomComplet1 = premon1 + espace + prenom2 + espace + nom
+print(nomComplet1)
+// La sting d'interpolation
+var metier = "romancier"
+var interplationPresentation = "Hello, Je suis \(firstname) \(name), \(metier) et j'ai \(age) ans."
+print(interplationPresentation)
+// Accéder à tous les caractères d'une chaîne
+// À chaque passage une constante lettre sera crée
+for lettre in nomComplet1 {
+    print(lettre) // tout est en 1 colonne dans le console
+}
+// Comprer les caractères d'une chaîne
+print("La variable comporte \(nomComplet.count) lettres.") // la fonction count compte aussi les éventuels espaces
+// tout en minuscule
+let low = docstring.lowercased() // il y a des parenthèses ; c'est une méthode
+print(low)
+// tout en majuscule
+let upper = docstring.uppercased()
+print(upper)
+// première lettre capitale
+let cap = docstring.capitalized // pas de parenthèse ; c"est une propriété
+print(cap)
+//Concidérer le guillemet comme faisant partie de la chaîne, c'est l'échapement "escaping" de caractère
+var citation = "\"L'amélioration continue vaut mieux que la perfection retardée.\" Marc TWAINE"
+print(citation)
+// Remplacer des mots
+let interdit = "vert"
+let sentennce = "L'arbre est bien vert"
+let newSentence = sentennce.replacingOccurrences(of: interdit, with: "(le vocable est sensuré)")
+print(newSentence)
+// Metre des émoticones (ctrl + cmd + aspace)
+var emoji = "😀"
+print(emoji)
+// Aficher la prmière lettre d'un mot avec la propirété first
+print(interdit.first)
