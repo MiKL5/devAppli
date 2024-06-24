@@ -129,3 +129,57 @@ var emoji = "😀"
 print(emoji)
 // Aficher la prmière lettre d'un mot avec la propirété first
 print(interdit.first)
+/*
+ Les booléens
+ servent souvent
+ pour vérifier des valeurs par exemple
+ Il y a plusieurs manières de changer un booléen
+ == vérifi l'égalité
+*/
+var ceCoursEtCooll:Bool = true
+var jePrefereLireUnLivre = false
+print(ceCoursEtCooll)
+print(jePrefereLireUnLivre)
+jePrefereLireUnLivre = !jePrefereLireUnLivre
+print(jePrefereLireUnLivre)
+ceCoursEtCooll.toggle()
+print(ceCoursEtCooll)
+var isRealName = personne == "Matthieu"
+print(isRealName)
+/*
+ Les tuples
+ Est un groupe de plusieurs valeurs, dans une unique valeur.
+ Elles peuvent êtres de n'importe quel type et pas forcément les mêmes
+ Définies entre parenthèses et séparées pas les virgules
+ L'erreur 404 est issue d'un tuple
+ */
+let httpStatus:(Int , String) = (404 , "Page non trouvée")
+print(httpStatus)
+print(httpStatus.0) // 404
+let status:(isAlive:Bool , lives:Int) = (true , 5)
+print(status)
+print(status.isAlive) // Plus clair
+let (code , message) = httpStatus
+print(code)
+print(message)
+let (_ , msg) = httpStatus
+print(msg)
+/* 
+ Les tableaux
+ Les valeur sont entre crochets et séparés par des virgules
+ L'initialisation peut se faire via des parenthèses, pour signifier de le créer
+ ou avec des crochets vides
+ Cela permet de compter, récupéer un élément par son index, ajouter, supprimer, vérifier s'il est vide, le parcourir via une boucle,
+*/
+var premiereListeOrdonee = [3 , 54 , 32 , 87] // Il est mieux de mettre le type [any ou autre entres crochets]
+var listeMultiple:Any = [28 , "Jean" , true] // Le type any,permet l'hétérogénéité, nonobstant, ce n'est pas conseillé
+// Compter
+print(premiereListeOrdonee.count)
+print(premiereListeOrdonee.first)
+print(premiereListeOrdonee.last)
+print(premiereListeOrdonee.isEmpty)
+var secondeListeOrdonee:[Any] = []
+print(secondeListeOrdonee.last)
+print(secondeListeOrdonee.isEmpty)
+// Parcourir en bouclant
+
