@@ -20,4 +20,4 @@ C’est en 2014, qu’il fut officiellement présenté à la WWDC par [Chris LAT
 ## **Langage Python** <a href="https://github.com/MiKL5/"><img align="right" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Python est un langage de programmation interprété, orienté objet, et de haut niveau.  
 Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité, permettant de développer rapidement des applications dans de nombreux domaines. Python dispose d'une vaste bibliothèque standard et d'une large communauté de développeurs, le rendant très polyvalent et populaire, notamment pour le web, la science des données et l'intelligence artificielle. Ses principales caractéristiques sont la dynamicité, la portabilité et l'extensibilité.  
-[Voir les projets](https://github.com/MiKL5/Python)
+[Voir le contenu](https://github.com/MiKL5/Python)
