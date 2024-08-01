@@ -182,4 +182,49 @@ var secondeListeOrdonee:[Any] = []
 print(secondeListeOrdonee.last)
 print(secondeListeOrdonee.isEmpty)
 // Parcourir en bouclant
-
+var etudiants = ["Sophie" , "Jean" , "Georges" , "Annie" , "Sylvain" , "Céline"]
+for etudiant in etudiants {
+    // print("Etudiant nommé :\(etudiants)") // non car ils sont tous lités dans la ligne
+    print("Etudiant nommé :\(etudiant)")
+}
+// Index
+// Un tableau est une liste ordonnée, chaque éléments est défini par son index qui débute à 0
+    // Répcupéré par l'index
+let firstStudent = etudiants[0] // Sophie
+print(firstStudent)
+let lastStudent = etudiants[5] // Céline
+print(lastStudent)
+print(etudiants.count) // 6
+print(etudiants[etudiants.count-1]) // Céline
+    // Ajouter au tableau
+etudiants.append("Bertrand")
+print(etudiants)
+etudiants.append(contentsOf: ["Tic" , "Tac"])
+print(etudiants)
+    // Insérer dans un tableau (avec un index)
+etudiants.insert("Matththieu", at: 3)
+print(etudiants)
+etudiants.insert(contentsOf: ["Catarine" , "Yuri"], at: 1)
+print(etudiants)
+    // Concaténation
+etudiants += ["Billy" , "Will"]
+print(etudiants)
+    // Supprimer
+etudiants.removeFirst()
+print(etudiants)
+etudiants.removeLast()
+print(etudiants)
+    // Supprimer avec l'index
+    // supprimer le 4e
+etudiants.remove(at: 4)
+print(etudiants)
+    // Charcher l'index par rapport à Sylvain
+let index = etudiants.firstIndex(where: {$0 == "Sylvain"})
+if  index != nil { // pour enlevé Sylvain
+    etudiants.remove(at: index!)
+}
+print(etudiants)
+etudiants.removeAll()
+print(etudiants)
+etudiants=[]
+print(etudiants)
