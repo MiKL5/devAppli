@@ -16,6 +16,8 @@ C’est en 2014, qu’il fut officiellement présenté à la WWDC par [Chris LAT
 1. Appli iOS
 2. Création d'une app Playground pour voir les bases du langage
 <!-- 3. PetBook -->
+<!-- 4. Les intereactions avezc l'utilisateur -->
+<!-- 5. FoodApp -->
 
 ## **Python** <a href="https://github.com/MiKL5/"><img align="right" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Python est un langage de programmation interprété, orienté objet, et de haut niveau.  
