@@ -270,5 +270,9 @@ print(enfants)
 enfants=2  // Si une quantité n'est pas définie, il y aura un crash
 print(enfants!) // avec le point d'exclammation, elle n'est plus optionnnelle // il faut déballer de manière sûr un optionnel
 // LES OPÉRATEURS
-
+// Symbole vérifiant, modifiant ou combinant des valeurs.
+// Les opérateurs peuvent êtres unaires pour une valeur, binaire pour deux et ternaire pour troix
+// Unaire opérant sur une cible est préfixe, s'il est avant la valeur et suffixe, s'il est placer après
+// Binaire opére sur deux cibles ; il est entre les valeurs
+// Ternaire opére sur trois cibles, Swift a juste l'opérateur conditionnel (valeur1 ? valeur2 : valeur3)
     // Les opérateurs d'assignation
