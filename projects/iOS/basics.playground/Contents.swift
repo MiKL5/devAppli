@@ -228,3 +228,47 @@ etudiants.removeAll()
 print(etudiants)
 etudiants=[]
 print(etudiants)
+// Les dictionnaires
+// Listes analogues aux tableaux, cependant, ils ne sont pas ordonnées, inaccessible par un index ou une clé
+// Ils contienent ["une clé et": une valeur chiffrée ou non]
+// Ils stockent une liste d'éléments entre crochets, doivent avoir le même type, (isEmpty est l'une des similutudes)
+var firstDico:[Int:String] = [1:"Maria" , 2:"John" , 3:"Anna"]
+print(firstDico)
+var dicoVide: [String:Bool]=[:]
+var dicoVide1 = [String:Float]()
+var dicoVide2 = Dictionary<String , String>()
+print(dicoVide)
+print(dicoVide1)
+print(dicoVide2)
+var courseDico:[String:Bool]=["Carotte":true , "Aubergine":false , "Fraise":true , "Tomates":false , "Poivrons rouges":false]
+print(courseDico)
+print(courseDico.count)
+print(courseDico.isEmpty)
+for(aliment , achete) in courseDico {
+    print("\(aliment) a été acheté: \(achete)")
+}
+// print(courseDico.first) // impossible ; il n'y a pas d'index
+    // Récupérer sans index
+print(courseDico["Tomate"])
+courseDico["Tomates"] = true
+print(courseDico)
+courseDico.updateValue(true, forKey: "Beetroots")
+print(courseDico)
+courseDico["Chocolat noire"]
+print(courseDico)
+    // Supprimer
+courseDico.removeValue(forKey: "Aubergine")
+print(courseDico)
+courseDico.removeAll()
+print(courseDico)
+// Les optionnels
+// Swift est un langage sensible, si une variable est vide, l'application crash
+// L'optionnel N'EST PAS UN TYPE, c'est une façon de permette à une variable de ne pas avoir de valeur
+// un ? est ajouter aprés le type de variable
+var enfants:Int?
+print(enfants)
+enfants=2  // Si une quantité n'est pas définie, il y aura un crash
+print(enfants!) // avec le point d'exclammation, elle n'est plus optionnnelle // il faut déballer de manière sûr un optionnel
+// LES OPÉRATEURS
+
+    // Les opérateurs d'assignation

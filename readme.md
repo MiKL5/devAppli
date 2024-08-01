@@ -14,7 +14,7 @@ C’est en 2014, qu’il fut officiellement présenté à la WWDC par [Chris LAT
 
 ### **Projets**
 1. Appli iOS
-2. Création d'une app Playground pour voir les bases du langage
+2. App Playground<!-- pour voir les bases du langage -->
 <!-- 3. PetBook -->
 <!-- 4. Les intereactions avezc l'utilisateur -->
 <!-- 5. FoodApp -->
