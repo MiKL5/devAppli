@@ -1,7 +1,7 @@
 # **Développement d’applications**
 ## **Swift** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Langage Swift" align="right" height="64px"></a>
 L’autre langage maison d’Apple est Objective-C.  
-En travaillant sur Xcode Chris LATTNER voulait un langage moins contraignant pour les appareils tels que les iPhones et iPad.   
+En travaillant sur Xcode [Chris LATTNER](https://fr.wikipedia.org/wiki/Chris_Lattner) voulait un langage moins contraignant pour les appareils tels que les iPhones et iPad.   
 [Swift](https://fr.wikipedia.org/wiki/Swift_(langage_d%27Apple)) est un langage de programmation orienté objet à usage général créer en 2010 par Apple. Il est compilé et développer par Apple dans le but de créer des applis pour macOS, iOS, tvOS, WatchOS, visionOS, DriverKit…  
 Il est simple, sûr performant, véloce et open source.  
 Et est inspiré de nombreux langage come l’Objective-C, le Python, le C ou Java.
@@ -10,14 +10,14 @@ Apple étant le créateur, il est le principal contributeur, nonobstant, une com
 
 Il est supporté par de nombreux OS, dont ceux d’Apple, Linux ainsi que des supports non officiels sur certaines plateformes.
 
-C’est en 2014, qu’il fut officiellement présenté à la WWDC par [Chris LATTNER](https://fr.wikipedia.org/wiki/Chris_Lattner).
+Puis, officiellement présenté à la WWDC de 2014 par Chris LATTNER.
 
-### **Projets**
-1. Appli iOS
-2. App Playground<!-- pour voir les bases du langage -->
-<!-- 3. PetBook -->
-<!-- 4. Les intereactions avezc l'utilisateur -->
-<!-- 5. FoodApp -->
+<!-- ### **Projets** -->
+<!-- 1. PetBook <kbd>_Wip_</kbd> -->
+<!-- 2. Les intereactions avezc l'utilisateur -->
+<!-- 3. FoodApp -->
+
+<br><br>
 
 ## **Python** <a href="https://github.com/MiKL5/"><img align="right" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Python est un langage de programmation interprété, orienté objet, et de haut niveau.  
