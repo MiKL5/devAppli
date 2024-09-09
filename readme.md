@@ -6,11 +6,10 @@ En travaillant sur Xcode [Chris LATTNER](https://fr.wikipedia.org/wiki/Chris_Lat
 Il est simple, sûr performant, véloce et open source.  
 Et est inspiré de nombreux langage come l’Objective-C, le Python, le C ou Java.
 
-Apple étant le créateur, il est le principal contributeur, nonobstant, une communauté y contribue ainsi que d’importantes sociétés comme IBM et Google.
+Apple est le principal contributeur étant le créateur, nonobstant, une communauté y contribue ainsi que d’importantes sociétés (e.g. IBM et Google).
 
-Il est supporté par de nombreux OS, dont ceux d’Apple, Linux ainsi que des supports non officiels sur certaines plateformes.
+Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté par de nombreux OS, dont ceux d’Apple, Linux ainsi que des supports non officiels avec certaines plateformes.
 
-Puis, officiellement présenté à la WWDC de 2014 par Chris LATTNER.
 
 <!-- ### **Projets** -->
 <!-- 1. PetBook <kbd>_Wip_</kbd> -->
