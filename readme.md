@@ -34,10 +34,10 @@ Apple est le principal contributeur étant le créateur, nonobstant, une communa
 
 Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté par de nombreux OS, dont ceux d’Apple, Linux ainsi que des supports non officiels avec certaines plateformes.
 
-### **Exercice**
-1. [Les intereactions avec l'utilisateur](exercises/howToInteract)
-
-### **Projets**
+### **Mini projets**
 1. PetBook
 2. [Where is the chicken?](projects/whereIsTheChicken)
 <!-- 3. FoodApp -->
+
+### **Exercice**
+1. [Les intereactions avec l'utilisateur](exercises/howToInteract)
