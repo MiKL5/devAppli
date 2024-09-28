@@ -8,3 +8,7 @@
 ._docs
 docs/._p2o
 exercises/._P2O.swiftpm
+docs/p2o/._class
+docs/p2o/._creatingClassInstance
+docs/p2o/._defineClass
+docs/p2o/._storedProperties
