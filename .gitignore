@@ -5,3 +5,6 @@
 .vscode/._settings.json
 ._exercises
 ._projects
+._docs
+docs/._p2o
+exercises/._P2O.swiftpm
