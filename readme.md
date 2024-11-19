@@ -20,6 +20,12 @@ Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité,
     <h2><a href="https://github.com/MiKL5/Python"></b><i>Tout voir</i></b></a></h2>
 </div><br><br>
 
+### **Projets avec Jupyter Notbook** <a href=""><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
+> <h4>Apprentisage non supervisé</h4>
+<div align="center">
+    <h2><a href="https://github.com/MiKL5/machineLearning"></b><i>Aller voir</i></b></a></h2>
+</div><br><br>
+
 ## **Swift** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Langage Swift" align="right" height="64px"></a>
 Rapide, sécurisé et facile à lire, il est conçu spécialement pour développer des applications pour les plateformes Apple.  
 
@@ -44,7 +50,7 @@ Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté
 
 <br><br>
 
-## **C#**<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
+## **C#** <a href=#><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="64px"></a>
 
 [Pong](projects/pong) <a href="projects/pong"><img align="center" src="assets/images/unity.png" alt="Unity" height="18px"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="18px"></a>  
 <!-- [Puissance4](projects/p4) <kbd>_**Wip**_</kbd> <a href="projects/pong"><img align="center" src="assets/images/unity.png" alt="Unity" height="18px"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C sharp" height="18px"></a>   -->
