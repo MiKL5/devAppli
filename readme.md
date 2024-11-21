@@ -17,13 +17,13 @@ Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité,
 [Gestion de personnages](https://github.com/MiKL5/Python/blob/master/miniProjets/characterManagement)  
 
 <div align="center">
-    <h2><a href="https://github.com/MiKL5/Python"></b><i>Tout voir</i></b></a></h2>
+    <h2><a href="https://github.com/MiKL5/Python"><b><i>Tout voir</i></b></a></h2>
 </div><br><br>
 
 ### **Projets avec Jupyter Notbook** <a href=""><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
 > <h4>Apprentisage non supervisé</h4>
 <div align="center">
-    <h2><a href="https://github.com/MiKL5/machineLearning"></b><i>Aller voir</i></b></a></h2>
+    <h2><a href="https://github.com/MiKL5/machineLearning"><b><i>Aller voir</i></b></a></h2>
 </div><br><br>
 
 ## **Swift** <a href="https://github.com/MiKL5/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Langage Swift" align="right" height="64px"></a>
