@@ -21,6 +21,7 @@ Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité,
 </div><br><br>
 
 ### **Projets avec Jupyter Notbook** <a href=""><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
+#### **Machine Learning**
 > <h4>Apprentisage non supervisé</h4>
 <div align="center">
     <h2><a href="https://github.com/MiKL5/machineLearning"><b><i>➜ Aller voir</i></b></a></h2>
