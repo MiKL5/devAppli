@@ -6,7 +6,7 @@ Python est un langage de programmation interprété, orienté objet, et de haut 
 
 Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité, permettant de développer rapidement des applications dans de nombreux domaines. Python dispose d’une vaste bibliothèque standard et d’une large communauté de développeurs, le rendant très polyvalent et populaire, notamment pour le web, la science des données et l’intelligence artificielle. Ses principales caractéristiques sont la dynamicité, la portabilité et l’extensibilité.
 
-### **Mini projets**
+### **📁 Mini projets**
 
 [Validateur de carte de crédit](https://github.com/MiKL5/Python/blob/master/miniProjets/creditCardValidator)  
 [Calculatrice avec opérations multiples](https://github.com/MiKL5/Python/blob/master/miniProjets/calculator)  
@@ -25,9 +25,9 @@ Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité,
 
 ### **Projets avec Jupyter Notbook** <a href=""><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
 
-#### **Machine Learning**
+#### **🤖 🧠 Machine Learning**
 
-> <h4>Apprentisage non supervisé</h4>
+> <h4>🧬 Apprentissage non supervisé</h4>
 
 <div align="center">
     <h2><a href="https://github.com/MiKL5/machineLearning"><b><i>➜ Aller voir</i></b></a></h2>
@@ -48,13 +48,13 @@ Apple est le principal contributeur étant le créateur, nonobstant, une communa
 
 Officiellement présenté à la WWDC de 2014 par Chris LATTNER, il est supporté par de nombreux OS, dont ceux d’Apple, Linux ainsi que des supports non officiels avec certaines plateformes.
 
-### **Mini-projets**
+### **📁 Mini-projets**
 
 1. PetBook
 2. [Where is the chicken?](projects/whereIsTheChicken)
 <!-- 3. FoodApp <kbd>_Wip_</kbd> -->
 
-### **Exercice**
+### **🧪 Exercice**
 
 1. [Les intereactions avec l’utilisateur](exercises/howToInteract)
 <!-- 1. [Création d'une session vidéo](.exercises/BaseVideoCoreML) -->
