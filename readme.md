@@ -1,14 +1,14 @@
 # **Développement d’applications**
 
-## **Python** <a href="https://github.com/MiKL5/"><img align="right" src="https://github.com/MiKL5/Python/raw/master/assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+## **Python** <a href="https://github.com/MiKL5/"><img align="right" src="https://github.com/MiKL5/Python/raw/master/assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
 Python est un langage de programmation interprété, orienté objet, et de haut niveau.
 
 Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité, permettant de développer rapidement des applications dans de nombreux domaines. Python dispose d’une vaste bibliothèque standard et d’une large communauté de développeurs, le rendant très polyvalent et populaire, notamment pour le web, la science des données et l’intelligence artificielle. Ses principales caractéristiques sont la dynamicité, la portabilité et l’extensibilité.
 
-### **📁 Mini projets**
+<!-- ### **📁 Mini projets** -->
 
-[Validateur de carte de crédit](https://github.com/MiKL5/Python/blob/master/miniProjets/creditCardValidator)  
+<!-- [Validateur de carte de crédit](https://github.com/MiKL5/Python/blob/master/miniProjets/creditCardValidator)  
 [Calculatrice avec opérations multiples](https://github.com/MiKL5/Python/blob/master/miniProjets/calculator)  
 [Conversion d’entier et de binaire](https://github.com/MiKL5/Python/blob/master/miniProjets/integerBinaryConversion)  
 [Calcul d’addresse et de masque réseau](https://github.com/MiKL5/Python/blob/master/miniProjets/networkAdressMask)  
@@ -17,17 +17,17 @@ Connu pour sa simplicité de syntaxe, sa lisibilité et sa grande expressivité,
 [Liste de lecture dans un fichier CSV](https://github.com/MiKL5/Python/blob/master/miniProjets/booklist2)  
 [Les 50 premiers nombres premier](https://github.com/MiKL5/Python/blob/master/miniProjets/ListPrimeNumber)  
 [Dictionnaire de villes](https://github.com/MiKL5/Python/blob/master/miniProjets/dictionaryOfCities)  
-[Gestion de personnages](https://github.com/MiKL5/Python/blob/master/miniProjets/characterManagement)
+[Gestion de personnages](https://github.com/MiKL5/Python/blob/master/miniProjets/characterManagement) -->
 
 <div align="center">
-    <h2><a href="https://github.com/MiKL5/Python"><b><i>➜ Tout voir</i></b></a></h2>
+    <h2><a href="https://github.com/MiKL5/Python"><b><i>➜ Aller voir</i></b></a></h2>
 </div><br><br>
 
 ### **Projets avec Jupyter Notbook** <a href=""><img align="right" src="assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
 
 #### **🤖 🧠 Machine Learning**
 
-> <h4>🧬 Apprentissage non supervisé</h4>
+<!-- > <h4>🧬 Apprentissage non supervisé</h4> -->
 
 <div align="center">
     <h2><a href="https://github.com/MiKL5/machineLearning"><b><i>➜ Aller voir</i></b></a></h2>
